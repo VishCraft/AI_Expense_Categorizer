@@ -1,6 +1,10 @@
-# AI Expense Categorizer (Glassmorphism UI + Charts + .env)
+# AI Expense Categorizer 
 
 A polished AI-powered web app that categorizes your expenses from a CSV file and generates spending insights, with a glassmorphism dashboard UI and charts.
+
+
+<img width="2376" height="746" alt="image" src="https://github.com/user-attachments/assets/04c0df9d-0f43-43dd-99e0-2fbccd8794d3" />
+
 
 ## Features
 
@@ -85,13 +89,3 @@ Drag & drop into the upload area, click **Analyze with AI**, and you will see:
 - Per-category spend listing
 - Bar + pie charts in a glassmorphism dashboard
 
-## For GitHub
-
-- Do **commit**:
-  - `app.py`, `categorize.py`, `templates/`, `sample_data/`, `requirements.txt`, `README.md`, `.env.example`, `.gitignore`
-- Do **NOT commit**:
-  - `.env`
-  - `venv/`
-  - `__pycache__/`
-
-You can safely push this entire folder (except `.env`) to a public GitHub repo.
