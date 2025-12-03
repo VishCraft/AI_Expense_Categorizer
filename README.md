@@ -2,6 +2,10 @@
 
 A polished AI-powered web app that categorizes your expenses from a CSV file and generates spending insights, with a glassmorphism dashboard UI and charts.
 
+
+<img width="2376" height="746" alt="image" src="https://github.com/user-attachments/assets/04c0df9d-0f43-43dd-99e0-2fbccd8794d3" />
+
+
 ## Features
 
 - Drag-and-drop CSV upload
